@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">retro-soap-android</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string-array name="operaciones_array">
+        <item>add</item>
+        <item>subtract</item>
+        <item>multiply</item>        
+    </string-array>
+    
+    <string name="numero1">Numero 1: </string>
+    <string name="numero2">Numero 2: </string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado: </string>
+
+</resources>
